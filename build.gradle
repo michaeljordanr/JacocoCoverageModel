@@ -1,5 +1,5 @@
 buildscript {
-    ext.jacocoVersion = '0.8.1'
+    ext.jacocoVersion = '0.8.2'
 
     repositories {
         google()
